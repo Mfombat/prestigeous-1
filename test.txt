@@ -1,1 +1,2 @@
 # code to build nexflix.
+# project will take 6 weeks
